@@ -1,1 +1,1 @@
-# ML-prac
+# Machine Learning Bootcamp
